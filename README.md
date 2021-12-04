@@ -16,7 +16,7 @@ ZZ-저장
 2번문제
 `:%s/sublime\|emacs/vim/g<CR>ZZ`\
 ![vimgolf2](https://user-images.githubusercontent.com/31243549/144701786-57c630d0-d518-495d-9a56-77a51ef7f612.gif)\
-
+`:%s(치환)/sublime\|emacs(치환할문자열)/vim(치환한문자열)/g(전부)`
 
 3번문제
 `/V<CR>ywO// <Esc>paTODO<Esc>/D<CR>ywO// <Esc>paTODO<Esc>ZZ` \
