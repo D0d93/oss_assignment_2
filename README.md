@@ -1,10 +1,12 @@
 # oss_assignment_2
 vimgolf
 
-`<CR> - enter`
+`<CR> == enter`
+
+
 1번문제
-`/{<CR><Esc>i"<End>"<Esc>ZZ` \
-![vimgolf1](https://user-images.githubusercontent.com/31243549/144701536-b9f8a9ed-98ad-4fa4-88cb-4b111b4d6e52.gif)\
+`GWi"<End>"<Esc>ZZ` \
+
 
 
 2번문제
@@ -20,3 +22,6 @@ vimgolf
 `:%s/y1/abs(y1)/g<CR>/1<CR>r4n.n.Nr3N.N.Nr2N.N./k<CR>rbnrrnrgZZ` \
 ![vimgolf4](https://user-images.githubusercontent.com/31243549/144703052-1a5f9c07-7d44-432e-af8b-8afb5a38cb4b.gif)
 
+5번문제
+`5ggyw/"<CR>pa,name,age,score<Esc>ZZ` \
+![vimgolf5](https://user-images.githubusercontent.com/31243549/144703242-39bc314e-fd79-40ba-9e41-05270e192b1a.gif)
