@@ -16,14 +16,14 @@ ZZ-저장
 
 
 2번문제
-`:%s/sublime\|emacs/vim/g<CR>ZZ` --> 29번 \\
+`:%s/sublime\|emacs/vim/g<CR>ZZ` --> 29번 \
 ![vimgolf2](https://user-images.githubusercontent.com/31243549/144701786-57c630d0-d518-495d-9a56-77a51ef7f612.gif) 
 
 `:%s(치환)/sublime\|emacs(치환할문자열)/vim(치환한문자열)/g(전부)`
 
 
 3번문제
-`/V<CR>ywO// <Esc>paTODO<Esc>/D<CR>ywO// <Esc>paTODO<Esc>ZZ` -->36번 \\
+`/V<CR>ywO// <Esc>paTODO<Esc>/D<CR>ywO// <Esc>paTODO<Esc>ZZ` -->36번 \
 ![vimgolf3](https://user-images.githubusercontent.com/31243549/144703612-ec7d2c89-5393-42d9-b5ea-2644a21fad3f.gif) 
 
 /문자열 - 문자열 검색
@@ -33,7 +33,7 @@ p - 붙여넣기
 
 
 4번문제
-`:%s/y1/abs(y1)/g<CR>/1<CR>r4n.n.Nr3N.N.Nr2N.N./k<CR>rbnrrnrgZZ` --> 53번 \\
+`:%s/y1/abs(y1)/g<CR>/1<CR>r4n.n.Nr3N.N.Nr2N.N./k<CR>rbnrrnrgZZ` --> 53번 \
 ![vimgolf4](https://user-images.githubusercontent.com/31243549/144703052-1a5f9c07-7d44-432e-af8b-8afb5a38cb4b.gif) 
 
 r - 한단어 교체
@@ -42,7 +42,7 @@ n - 다음 검색
 
 
 5번문제
-`5ggyw/"<CR>pa,name,age,score<Esc>ZZ` --> 28번 \\
+`5ggyw/"<CR>pa,name,age,score<Esc>ZZ` --> 28번 \
 ![vimgolf5](https://user-images.githubusercontent.com/31243549/144703242-39bc314e-fd79-40ba-9e41-05270e192b1a.gif) 
 
 5gg - 5번째줄로 이동
