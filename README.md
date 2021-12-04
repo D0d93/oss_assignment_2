@@ -13,14 +13,16 @@ i-현재위치에 삽입
 end줄의 끝으로
 ZZ-저장
 
+
 2번문제
 `:%s/sublime\|emacs/vim/g<CR>ZZ`\
 ![vimgolf2](https://user-images.githubusercontent.com/31243549/144701786-57c630d0-d518-495d-9a56-77a51ef7f612.gif)\
 `:%s(치환)/sublime\|emacs(치환할문자열)/vim(치환한문자열)/g(전부)`
 
+
 3번문제
 `/V<CR>ywO// <Esc>paTODO<Esc>/D<CR>ywO// <Esc>paTODO<Esc>ZZ` \
-![vimgolf3](https://user-images.githubusercontent.com/31243549/144702232-2bd4feb9-5274-4e8e-a79c-4cfd5a1258aa.gif)\
+![vimgolf3](https://user-images.githubusercontent.com/31243549/144703408-efafcd9b-ed55-4473-b73c-5dd65d978eda.gif)
 
 
 4번문제
