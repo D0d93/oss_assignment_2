@@ -23,6 +23,10 @@ ZZ-저장
 3번문제
 `/V<CR>ywO// <Esc>paTODO<Esc>/D<CR>ywO// <Esc>paTODO<Esc>ZZ` \
 ![vimgolf3](https://user-images.githubusercontent.com/31243549/144703408-efafcd9b-ed55-4473-b73c-5dd65d978eda.gif)
+/문자열 - 문자열 검색
+yw - 단어 복사
+O - 위에 새로운 줄 추가 후 입력 시작
+p - 붙여넣기
 
 
 4번문제
