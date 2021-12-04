@@ -7,7 +7,11 @@ vimgolf
 1번문제
 `GWi"<End>"<Esc>ZZ` \
 ![vimgolf1](https://user-images.githubusercontent.com/31243549/144703271-921b527f-e216-4d86-aa1a-cc7242fe1499.gif)
-
+G-끝줄
+W-다음단어시작위치로
+i-현재위치에 삽입
+end줄의 끝으로
+ZZ-저장
 
 2번문제
 `:%s/sublime\|emacs/vim/g<CR>ZZ`\
