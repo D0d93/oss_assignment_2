@@ -32,8 +32,13 @@ p - 붙여넣기
 4번문제
 `:%s/y1/abs(y1)/g<CR>/1<CR>r4n.n.Nr3N.N.Nr2N.N./k<CR>rbnrrnrgZZ` \
 ![vimgolf4](https://user-images.githubusercontent.com/31243549/144703052-1a5f9c07-7d44-432e-af8b-8afb5a38cb4b.gif)
+r - 한단어 교체
+n - 다음 검색
+. - 이전 액션 다시실행
 
 
 5번문제
 `5ggyw/"<CR>pa,name,age,score<Esc>ZZ` \
 ![vimgolf5](https://user-images.githubusercontent.com/31243549/144703242-39bc314e-fd79-40ba-9e41-05270e192b1a.gif)
+5gg - 5번째줄로 이동
+(뭔가를 하려 해봤지만 제일 처음 student_ID를 제외한 나머지는 이동에 쓰이는게 더 많아서 이게 오히려 더 숫자가 작게나옴)
